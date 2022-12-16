@@ -1,15 +1,23 @@
 {
   "name": "fake-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js" 
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayshasinara/MasaiverseData.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayshasinara/MasaiverseData/issues"
+  },
+  "homepage": "https://github.com/ayshasinara/MasaiverseData#readme",
+  "description": ""
 }
